@@ -1,0 +1,8 @@
+defmundo 10
+defen 80
+defpc 50
+defvt 4
+defmi 70
+defme 80
+defnm 30
+inicio
